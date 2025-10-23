@@ -1,0 +1,9 @@
+.home-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+
+  background: linear-gradient(45deg, #4d3e23,#c9b273,#ddcaa2);
+}
